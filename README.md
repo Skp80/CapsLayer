@@ -6,6 +6,10 @@ We expect that this theory will definitely contribute to Deep Learning Industry 
 
 This library is based on [Tensorflow](https://www.tensorflow.org) and has a similar API with it but designed for capsule layer/model. We will soon be testing it with TensorFlow 1.4.x as well as TensorFlow 1.5.x which introduces several imperative modules such as Eager Execution etc.
 
+Here is a simple example of probability of entity presence wirh MNIST dataset when running vecCapsNet activations
+
+<img src="https://github.com/TarrySingh/CapsLayer/blob/master/models/assets/results_mnist_vecCapsNetactivations.gif">
+
 
 # Features
 
